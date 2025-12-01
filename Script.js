@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
         links: {
             github: 'https://github.com/Alexrobles2002',
             linkedin: 'https://www.linkedin.com/in/alex-robles-138b84359?utm_source=share_via&utm_content=profile&utm_medium=member_android',
-            portfolio: '/portafolio/index.html',
+            portfolio: './portafolio/index.html',
             email: 'alexrobles084@gmail.com',
             cv: 'Documents/CV-Robles Huanca Alexander Smith.pdf',
             instagram: 'https://www.instagram.com/alexrobles084?igsh=c2N3NDIwdXFtb2l2'
