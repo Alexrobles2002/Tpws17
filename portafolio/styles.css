@@ -907,6 +907,7 @@ body {
     margin: 0 auto 50px;
 }
 
+
 .certification-card {
     background: var(--utp-white);
     border-radius: 16px;
@@ -1433,6 +1434,7 @@ body {
         grid-template-columns: 1fr;
     }
 }
+
 
 @media (max-width: 480px) {
     .nav-container {

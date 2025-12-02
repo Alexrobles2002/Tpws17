@@ -1,6 +1,6 @@
 /* ============================================
-   PORTAFOLIO WEB - SCRIPTS
-   Carlos Mendoza Ríos - Estudiante UTP
+PORTAFOLIO WEB - SCRIPTS
+Carlos Mendoza Ríos - Estudiante UTP
    ============================================ */
 
 document.addEventListener('DOMContentLoaded', function() {
